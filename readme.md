@@ -2,11 +2,11 @@
 
 ### ป้อนข้อมูลนักศึกษา
 
-รหัส นศ.:
+รหัส นศ.: 680610690
 
-ชื่อ-สกุล :
+ชื่อ-สกุล : ปกรณ์ภัทร คำตั๋น
 
-GitHub Page URL :
+GitHub Page URL : https://github.com/jaonayzzz/lab11-2569-starter.git
 
 ---
 
